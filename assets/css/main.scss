@@ -41,3 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom: publication item with left thumbnail */
+.pub {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  margin: 1rem 0;
+}
+.pub > img {
+  width: 110px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 4px;
+  flex: 0 0 auto;
+}
+.pub > [markdown] {
+  flex: 1 1 auto;
+}
