@@ -23,14 +23,14 @@ author_profile: true
 - Yazdanpanah, A.\*, **Wang, M. C.**\*, Trepka, E., & Soltani, A. (in submission). Contributions of statistical learning to learning from reward feedback. bioRxiv, 2024-04. [[paper](https://www.biorxiv.org/content/10.1101/2024.04.27.591445v3.abstract)]
 - **Wang, M. C.**, & Soltani, A. (2025). Contributions of attention to learning in multidimensional reward environments. Journal of Neuroscience, 45(7). [[paper](https://www.jneurosci.org/content/45/7/e2300232024.abstract)]
 - Singh, M. F., **Wang, M.**, Cole, M. W., & Ching, S. (2022). Efficient identification for modeling high-dimensional brain dynamics. In *2022 American Control Conference (ACC)* (pp. 1353-1358). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/9867232)]
-\ 
+<br>
 
 <h1>Talks</h1>
 - **Wang, M. C.**, & Soltani, A. (2025, Nov 4) Dynamic valuation via range normalization in uncertain, changing reward contexts. Cognitive Brown Bag, Dartmouth College
 - **Wang, M. C.**, & Soltani, A. (2025, Feb 24) Interactions between model-based reinforcement learning and selective attention. Cognitive Brown Bag, Dartmouth College
 - **Wang, M. C.**, & Soltani, A. (2025, Jan 9) Circuit mechanisms for learning and attention in multidimensional environments. Cognitive Brown Bag, Dartmouth College
 - **Wang, M. C.**, Mu, J., & Goodman, N. D. (2021, Aug 14) Learning Disentangled Visual Representations with the Help of Language. CSLI internship presentation, Stanford University
-\ 
+<br>
 
 <h1>Conference papers and presentations</h1>
 <small>*: Equal contribution </small>
