@@ -26,7 +26,7 @@ author_profile: true
 <br><br>
 
 <h1>Talks</h1>
-- **Wang, M. C.**, & Soltani, A. (2025, Nov 4) Dynamic valuation via range normalization in uncertain, changing reward contexts. Cognitive Brown Bag, Dartmouth College
+- **Wang, M. C.**, Lewis, C., Farashahi, S., Salholz-Hillel, M., & Soltani, A.(2025, Nov 4) Dynamic valuation via range normalization in uncertain, changing reward contexts. Cognitive Brown Bag, Dartmouth College
 - **Wang, M. C.**, & Soltani, A. (2025, Feb 24) Interactions between model-based reinforcement learning and selective attention. Cognitive Brown Bag, Dartmouth College
 - **Wang, M. C.**, & Soltani, A. (2025, Jan 9) Circuit mechanisms for learning and attention in multidimensional environments. Cognitive Brown Bag, Dartmouth College
 - **Wang, M. C.**, Mu, J., & Goodman, N. D. (2021, Aug 14) Learning Disentangled Visual Representations with the Help of Language. CSLI internship presentation, Stanford University
@@ -38,8 +38,8 @@ author_profile: true
 - **Wang, M. C.**, & Soltani, A. (2025). Selective activation of orthogonal neural subspaces supports attentional modulation of learning in multidimensional environments. Poster presentation at Society for Neuroscience Meeting.
 - Woo, J. H.\*, **Wang, M. C.**\*, Bartolo, R., Averbeck, B. B., Soltani, A. (2025). Neural mechanisms of model arbitration in the prefrontal cortex. Poster presentation at Society for Neuroscience Meeting.
 - Lewis, C.\*, **Wang, M. C.**\*, Farashahi, S.\*, Salholz-Hillel, M., & Soltani, A. (2025). Dynamic valuation via range normalization in uncertain, changing reward contexts. Poster presentation at Society for Neuroeconomics Meeting.
-- Soltani, A., Woo, J. H.\*, **Wang, M. C.**\*, Bartolo, R., Averbeck, B. B. (2025). Population-level mechanisms of model arbitration in the prefrontal cortex. Accepted for poster presentation at Annual Computational Neuroscience Meeting.
-- Woo, J. H.\*, **Wang, M. C.**\*, Bartolo, R., Averbeck, B. B., Soltani, A. (2024). Dynamic model arbitration through alignment of value with choice and reward subspaces in prefrontal cortex. Poster presentation at Society for Neuroscience Meeting.
+<!-- - Soltani, A., Woo, J. H.\*, **Wang, M. C.**\*, Bartolo, R., Averbeck, B. B. (2025). Population-level mechanisms of model arbitration in the prefrontal cortex. Accepted for poster presentation at Annual Computational Neuroscience Meeting. -->
+<!-- - Woo, J. H.\*, **Wang, M. C.**\*, Bartolo, R., Averbeck, B. B., Soltani, A. (2024). Dynamic model arbitration through alignment of value with choice and reward subspaces in prefrontal cortex. Poster presentation at Society for Neuroscience Meeting. -->
 - **Wang, M. C.**, & Soltani, A. (2024). Recurrent circuit mechanisms for reward learning in multidimensional environments. Poster presentation at Conference on Cognitive Computational Neuroscience. [[paper](https://2024.ccneuro.org/pdf/451_Paper_authored_CCN_2024_RNNv2.pdf)]
 - Woo, J. H.\*, **Wang, M. C.**\*, Bartolo, R., Averbeck, B. B., Soltani, A. (2024). Behavioral and neural evidence for dynamic model arbitration in dorsolateral prefrontal cortex. Poster presentation at Conference on Cognitive Computational Neuroscience. [[paper](https://2024.ccneuro.org/pdf/84_Paper_authored_dlPFC_CCN2024_vFinal.pdf)]
 - Yazdanpanah, A.\*, **Wang, M. C.**\*, Benz, M. P., & Soltani, A. (2023). Temporal regularities guide feature-based learning in complex reward environments. Poster presentation at Society for Neuroscience Meeting.
