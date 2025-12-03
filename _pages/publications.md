@@ -28,7 +28,7 @@ author_profile: true
 <h1>Talks</h1>
 - **Wang, M. C.**, Lewis, C., Farashahi, S., Salholz-Hillel, M., & Soltani, A.(2025, Nov 4) Dynamic valuation via range normalization in uncertain, changing reward contexts. Cognitive Brown Bag, Dartmouth College
 - **Wang, M. C.**, & Soltani, A. (2025, Feb 24) Interactions between model-based reinforcement learning and selective attention. Cognitive Brown Bag, Dartmouth College
-- **Wang, M. C.**, & Soltani, A. (2025, Jan 9) Circuit mechanisms for learning and attention in multidimensional environments. Cognitive Brown Bag, Dartmouth College
+- **Wang, M. C.**, & Soltani, A. (2024, Jan 9) Circuit mechanisms for learning and attention in multidimensional environments. Cognitive Brown Bag, Dartmouth College
 - **Wang, M. C.**, Mu, J., & Goodman, N. D. (2021, Aug 14) Learning Disentangled Visual Representations with the Help of Language. CSLI internship presentation, Stanford University
 <br><br>
 
