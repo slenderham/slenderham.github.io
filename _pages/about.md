@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Michael Chong Wang (王翀). I am a PhD candidate in Psychological and Brain Sciences at Dartmouth College, supervised by Professor [Alireza Soltani](https://sites.dartmouth.edu/ccnl/). I study the neural and computational mechanisms underlying the interactions between selective attention and reinforcement learning in complex environments.
+My name is Michael Chong Wang (王翀). I am a PhD candidate in Psychological and Brain Sciences at Dartmouth College, supervised by Professor [Alireza Soltani](https://sites.dartmouth.edu/ccnl/). My research combines computational models of human behavior and multivariate analysis of neural dynamics to understand the interactions between reinforcement learning, planning, and selective attention. I also train and reverse-engineer neural networks as mechanistic models of the brain.
 
 Before coming to Dartmouth, I was an undergraduate student at Washington University in St. Louis, where I worked with Professor [Jeff Zacks](https://dcl.wustl.edu), Professor [ShiNung Ching](https://engineering.washu.edu/faculty/ShiNung-Ching.html), and Professor [Todd Braver](https://sites.wustl.edu/ccplab/) on a variety of research topics, including modeling context-dependent learning with recurrent neural networks with plastic synapses, and modeling MEG data with nonlinear Kalman filter. I was also a summer intern at Stanford CSLI, where I worked with Professor [Noah Goodman](https://cocolab.stanford.edu) on language-guided object-centric visual representation learning.
 
